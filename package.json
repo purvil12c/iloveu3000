@@ -1,0 +1,33 @@
+{
+  "name": "iloveu3000",
+  "version": "1.0.0",
+  "description": "Run this program to feel the love.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purvil12c/iloveu3000.git"
+  },
+  "keywords": [
+    "npm",
+    "avengers",
+    "endgame",
+    "iloveyou3000",
+    "iron",
+    "man"
+  ],
+  "author": "Purvil Bambharolia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purvil12c/iloveu3000/issues"
+  },
+  "homepage": "https://github.com/purvil12c/iloveu3000#readme",
+  "bin": {
+    "iloveu3000": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
